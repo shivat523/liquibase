@@ -1,0 +1,1 @@
+create table new2024 (ID INT, NAME VARCHAR(50));
